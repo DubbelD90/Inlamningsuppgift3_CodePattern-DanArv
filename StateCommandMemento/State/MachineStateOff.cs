@@ -10,7 +10,7 @@ namespace Assignment2.StateCommandMemento.State
     {
         public void PowerSwitch()
         {
-            Console.WriteLine("Machine turning off");
+            Console.WriteLine("Machine turning On");
         }
     }
 }
